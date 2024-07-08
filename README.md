@@ -33,6 +33,7 @@
 - [霞鹜新致宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
 - [霞鹜晰黑 / LXGW XiHei](https://github.com/lxgw/LxgwXiHei)
 - [霞鹜致宋 / LXGW ZhiSong](https://github.com/lxgw/LxgwZhiSong)
+- [霞鹜尚智黑 / LXGW Fasmart Gothic](https://github.com/lxgw/LxgwFasmartGothic)
 ### 「霞鹜文楷」系列
 - [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [Lite](https://github.com/lxgw/LxgwWenKai-Lite)
 - [霞鹜文楷 GB / LXGW WenKai GB](https://github.com/lxgw/LxgwWenKaiGB) | [Lite](https://github.com/lxgw/LxgwWenKaiGB-Lite)
