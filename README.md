@@ -28,7 +28,7 @@
 - [原始授权字体 IPA Font](https://moji.or.jp/ipafont)
 - [TYPING ART](https://typingart.net)
 ## 更多「霞鹜」系列字型
-### 与本项目有关联的字型
+### 「晰致尚铭」系列
 - [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
 - [霞鹜新致宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
 - [霞鹜晰黑 / LXGW XiHei](https://github.com/lxgw/LxgwXiHei)
