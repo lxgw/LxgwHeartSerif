@@ -20,6 +20,8 @@
 - 根据 IPA Font License 1.0 有关条款，后续衍生不可使用原始授权程序的名称（包括程序名、文件名、字体名），且须继承原有授权条款（故 IPA Font License 1.0 与 SIL OFL 1.1 不兼容）。
 - 有关 IPA Font License 1.0 的其他常见问题，请参阅 [FAQ（日语）](https://moji.or.jp/ipafont/faq/)，需自备翻译工具。
 - 「IPA字体（IPA Font，IPAフォント）」为日本「独立行政法人情报处理推进机构」（简称「IPA」）的注册商标。
+- [原始授权字体 IPA Font](https://moji.or.jp/ipafont)
+- [TYPING ART](https://typingart.net)
 ## 更多「霞鹜」系列字型
 ### 与本项目有关联的字型
 - [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
