@@ -14,6 +14,7 @@
 ## 获取字体
 - 进入 [Releases](https://github.com/lxgw/LxgwHeartSerif/releases) 页面下载 TTF 格式字体文件。Release 版本号与 GB 字形的「霞鹜铭心宋」（新致宋）相同。
 - 也可进入 [猫啃网](https://www.maoken.com/freefonts/19277.html) 或 [字加](https://www.zijia.com.cn/6597.html) 获取。
+- 可在 [蓝奏云（密码:2q5d）](https://lxgw.lanzouv.com/b02seu58yd) 或 [永硕网盘](http://lxgw.ysepan.com/) 下载。
 
 > ㊟ 不保证与（新）致宋项目同步更新。
 ## 授权信息
