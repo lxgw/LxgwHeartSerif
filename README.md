@@ -11,7 +11,9 @@
 - 铭心宋所收的符号相比于新致宋会有所欠缺。
 ![](documentation/heart-2.png)
 ## 获取字体
-进入 [Releases](https://github.com/lxgw/LxgwHeartSerif/releases) 页面下载 TTF 格式字体文件。Release 版本号与 GB 字形的「霞鹜铭心宋」相同。
+进入 [Releases](https://github.com/lxgw/LxgwHeartSerif/releases) 页面下载 TTF 格式字体文件。Release 版本号与 GB 字形的「霞鹜铭心宋」（新致宋）相同。
+
+>㊟ 不保证与（新）致宋项目同步更新。
 ## 授权信息
 - 本字体在 IPA 所开发并发布的 [IPAex明朝](https://moji.or.jp/ipafont)、[「こころ明朝体」](https://typingart.net/?p=46) 基础上衍生，依照 [IPA开放字型授权条款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授权。
 - 但凡有任何人使用、复制、修改、分发本字体，或对本字型进行任何符合 IPA Font License 1.0 规定的行为，使用、下载或行使合约规定权利之接受方，亦视为同意遵守 IPA Font License 1.0 的一切规定。
