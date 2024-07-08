@@ -10,9 +10,9 @@
 - **霞鹜铭心宋** ：采用中国大陆规范字形。收录的汉字部分与 [霞鹜新致宋 v0.924](https://github.com/lxgw/LxgwNeoZhiSong/releases/tag/v0.924) 看齐。
 - **霞鹜铭心宋 CL** ：参考早期铅字印刷字形常见写法，回归旧式印刷字形，合并一部分「源规格分离」原则下分化的异码字。收录的汉字部分与 [霞鹜致宋 CL v0.321](https://github.com/lxgw/LxgwZhiSong/releases/tag/v0.321) 看齐。
 - **霞鹜铭心宋 MN** ：采用兼顾当代惯用部件写法的折中印刷字形（非楷化字形），严格遵循「源规格分离」原则。收录的汉字部分与 [霞鹜致宋 CL v0.321](https://github.com/lxgw/LxgwZhiSong/releases/tag/v0.321) 看齐。
+- 铭心宋所收的符号相比于新致宋会有所欠缺。
 ![](documentation/heart-2.png)
 
-铭心宋所收的符号相比于新致宋会有所欠缺。
 ## 获取字体
 > UNDER CONSTRUCTION
 ## 授权信息
