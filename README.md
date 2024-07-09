@@ -2,6 +2,9 @@
 基于[「こころ明朝体」](https://typingart.net/?p=46)以及[「霞鹜新致宋」](https://github.com/lxgw/LxgwNeoZhiSong)[「霞鹜致宋 CL/MN」](https://github.com/lxgw/LxgwZhiSong)衍生的中文黑体字型。
 
 将字面横向压缩 85%，并增加圆角，更加清瘦、圆润。
+
+> [!NOTE]
+> 由于《霞鹜新致宋》将要补全 GBK（同时补全 CJK 统一表意文字基本区），本字体单独设立 repo，不再随附于《霞鹜新致宋》。
 ## 概览
 ![](documentation/heart-1.png)
 ## 不同字形版本及收字情况
